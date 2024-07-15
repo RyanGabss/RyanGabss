@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RyanGabss/RyanGabss/output/snake.svg" alt="Snake animation" />
+![snake gif]([https://github.com/RyanGabss/RyanGabss/edit/main/README.md)/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
