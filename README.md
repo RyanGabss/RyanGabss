@@ -9,27 +9,6 @@
 ###
 
 <h3 align="left">Desenvolvedor</h3>
-<br>
-
-- 👨‍🏫 Tenho domínio em **Node, Python e Javascript**
-- 🌱 Atualmente estou aprendendo **Typescript, Aplicações Web com Node e Criação de APIs**
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/RyanGabss?tab=repositories)
-- 📝 Escrevo sobre alguns de meus projetos e experiências em [ir para linkedin](linkedin.com/in/ryangmn)
-- 🗣 Entre em contato comigo **ryangabrieldemn@gmail.com**
-<br>
-
-###
-
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="25" height="40" alt="youtube logo"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="5" />
@@ -44,6 +23,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
 </div>
 <h></h>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="25" height="40" alt="youtube logo"  />
+</div>
+- 👨‍🏫 Tenho domínio em **Node, Python e Javascript**
+- 🌱 Atualmente estou aprendendo **Typescript, Aplicações Web com Node e Criação de APIs**
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/RyanGabss?tab=repositories)
+- 📝 Escrevo sobre alguns de meus projetos e experiências em [ir para linkedin](linkedin.com/in/ryangmn)
+- 🗣 Entre em contato comigo **ryangabrieldemn@gmail.com**
+<br>
+
+###
+
+
+
+
+###
+
+
 
 ###
 
