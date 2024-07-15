@@ -1,8 +1,8 @@
-<p align="center">Hello World!!</p>
+## Olá, eu sou o Ryan Gabriel!!
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/RyanGabss/count.svg?"  />
 </div>
 
