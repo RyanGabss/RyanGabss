@@ -33,7 +33,7 @@
 - 🌱 Atualmente estou aprendendo **Typescript, Aplicações Web com Node e Criação de APIs**
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/RyanGabss?tab=repositories)
 - 📝 Escrevo sobre alguns de meus projetos e experiências em [ir para linkedin](linkedin.com/in/ryangmn)
-- 🗣 Entre em contato comigo **ryangabrieldemn@gmail.com**
+- 🗣 Entre em contato comigo em **ryangabrieldemn@gmail.com**
 
 ###
 
