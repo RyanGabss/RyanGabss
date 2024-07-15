@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Desenvolvedor</h3>
+<h3 align="left">Desenvolvedor</h3>
 <br>
 
 - 👨‍🏫 Tenho domínio em **Node, Python e Javascript**
