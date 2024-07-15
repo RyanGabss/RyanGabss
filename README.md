@@ -1,7 +1,4 @@
-## 
-<h1 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Ryan!;" />
-</h1>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10&color=00F708&random=false&width=435&lines=Ol%C3%A1+;%F0%9F%91%8B;Me+chamo+Ryan!)](https://git.io/typing-svg)
 
 ###
 
